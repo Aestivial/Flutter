@@ -1,3 +1,3 @@
 # My Flutter Development Files
 
-Tracking my progress in flutter dev so far...
+Tracking my progress in flutter development.
