@@ -24,7 +24,7 @@ class NinjaCard extends StatelessWidget {
           children: [
             Center(
               child: CircleAvatar(
-                backgroundImage: AssetImage('assets/thumb.jpg'),
+                backgroundImage: AssetImage('assets/thumb.jpg'),      //Replace thumb.jpg with the profile pic you would like to use.
                 radius: 150,
               ),
             ),
