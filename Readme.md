@@ -1,3 +1,3 @@
 # My Flutter Development Files
 
-Tracking my progress in flutter development.
+Learing, building and saving my progress in flutter development. This repo covers the first ever flutter applications I build along with some refernce materials covering basic flutter app development using dart and android studio.
